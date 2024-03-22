@@ -1,0 +1,94 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.201.9.186,443,0,false,GRU,South America,São Paulo,340,3.97
+191.237.205.178,443,0,false,GRU,South America,São Paulo,331,3.91
+20.226.170.152,443,0,false,GRU,South America,São Paulo,330,3.88
+51.107.6.231,8443,443,true,MXP,Europe,Milan,150,3.30
+51.107.6.138,8443,443,true,MXP,Europe,Milan,149,3.29
+51.107.6.220,8443,443,true,MXP,Europe,Milan,151,3.29
+20.203.143.112,2083,80,false,MXP,Europe,Milan,151,3.21
+20.203.143.114,2086,80,false,MXP,Europe,Milan,150,3.14
+51.107.13.85,8443,443,true,MXP,Europe,Milan,149,3.13
+20.203.143.112,2095,80,false,CDG,Europe,Paris,150,3.13
+20.203.143.117,2082,80,false,MXP,Europe,Milan,149,3.13
+20.203.143.112,2052,80,false,CDG,Europe,Paris,150,3.09
+51.107.6.128,8443,443,true,MXP,Europe,Milan,187,3.06
+20.203.143.112,2087,80,false,CDG,Europe,Paris,149,2.81
+51.107.211.178,2087,80,false,CPH,Europe,Copenhagen,176,2.66
+51.107.211.177,2083,80,false,CPH,Europe,Copenhagen,176,2.66
+51.107.211.178,2095,80,false,CPH,Europe,Copenhagen,176,2.63
+51.107.211.177,2096,80,false,CPH,Europe,Copenhagen,179,2.62
+51.107.211.178,2096,80,false,CPH,Europe,Copenhagen,181,2.60
+51.107.211.178,2082,80,false,CPH,Europe,Copenhagen,175,2.59
+51.107.211.178,2052,80,false,CPH,Europe,Copenhagen,176,2.58
+51.107.211.177,2053,80,false,CPH,Europe,Copenhagen,176,2.58
+51.107.211.177,2087,80,false,CPH,Europe,Copenhagen,176,2.57
+51.107.211.178,2083,80,false,CPH,Europe,Copenhagen,175,2.57
+51.107.211.178,2086,80,false,CPH,Europe,Copenhagen,176,2.57
+51.107.211.177,2095,80,false,CPH,Europe,Copenhagen,176,2.57
+51.107.211.178,2053,80,false,CPH,Europe,Copenhagen,176,2.56
+51.107.211.177,2052,80,false,CPH,Europe,Copenhagen,176,2.56
+51.107.211.177,2086,80,false,CPH,Europe,Copenhagen,175,2.55
+51.107.211.177,2082,80,false,CPH,Europe,Copenhagen,177,2.53
+52.187.35.233,80,0,false,SIN,Asia Pacific,Singapore,2,0.56
+4.144.161.159,80,80,false,SIN,Asia Pacific,Singapore,20,0.51
+104.208.64.116,80,0,false,HKG,Asia Pacific,Hong Kong,34,0.29
+20.46.154.208,2053,443,true,BOM,Asia Pacific,Mumbai,87,0.29
+51.11.142.112,80,0,false,LHR,Europe,London,156,0.16
+104.208.71.2,80,0,false,HKG,Asia Pacific,Hong Kong,69,0.08
+20.102.24.191,80,0,false,IAD,North America,Ashburn,225,0.07
+51.116.109.243,80,0,false,FRA,Europe,Frankfurt,154,0.06
+40.115.253.187,8080,0,false,SIN,Asia Pacific,Singapore,68,0.06
+40.115.253.187,80,0,false,HKG,Asia Pacific,Hong Kong,68,0.05
+20.243.87.182,80,0,false,HKG,Asia Pacific,Hong Kong,67,0.05
+20.2.87.94,443,0,false,HKG,Asia Pacific,Hong Kong,35,0.05
+20.2.87.94,80,0,false,HKG,Asia Pacific,Hong Kong,33,0.05
+172.162.242.200,80,0,false,MXP,Europe,Milan,154,0.03
+51.143.162.160,80,80,false,LHR,Europe,London,155,0.02
+137.116.251.154,80,443,false,DUB,Europe,Dublin,165,0.02
+20.86.52.80,80,0,false,AMS,Europe,Amsterdam,157,0.02
+20.81.104.97,80,443,false,IAD,North America,Ashburn,225,0.02
+13.82.233.190,80,0,false,IAD,North America,Ashburn,224,0.01
+40.83.203.12,80,0,false,SJC,North America,San Jose,169,0.01
+52.236.148.143,80,0,false,AMS,Europe,Amsterdam,156,0.01
+20.240.40.44,80,0,false,CPH,Europe,Copenhagen,179,0.00
+20.89.149.18,80,0,false,NRT,Asia Pacific,Tokyo,67,0.00
+74.226.216.102,80,0,false,NRT,Asia Pacific,Tokyo,67,0.00
+20.78.2.61,80,0,false,NRT,Asia Pacific,Tokyo,75,0.00
+20.18.32.188,80,0,false,NRT,Asia Pacific,Tokyo,68,0.00
+20.18.32.188,8080,0,false,NRT,Asia Pacific,Tokyo,67,0.00
+20.18.32.188,443,0,false,NRT,Asia Pacific,Tokyo,67,0.00
+20.55.38.130,80,0,false,IAD,North America,Ashburn,224,0.00
+20.172.220.126,80,0,false,IAD,North America,Ashburn,225,0.00
+172.167.242.53,80,0,false,LHR,Europe,London,160,0.00
+40.87.80.77,80,0,false,IAD,North America,Ashburn,225,0.00
+13.94.60.131,80,0,false,HKG,Asia Pacific,Hong Kong,33,0.00
+172.188.16.197,80,0,false,SIN,Asia Pacific,Singapore,3,0.00
+20.222.251.148,80,0,false,HKG,Asia Pacific,Hong Kong,67,0.00
+20.2.219.45,80,0,false,HKG,Asia Pacific,Hong Kong,33,0.00
+20.244.84.91,8443,443,true,BOM,Asia Pacific,Mumbai,48,0.00
+20.193.145.135,80,0,false,BOM,Asia Pacific,Mumbai,51,0.00
+52.147.69.148,443,443,true,KIX,Asia Pacific,Osaka,78,0.00
+20.70.120.90,80,0,false,SYD,Oceania,Sydney,85,0.00
+20.213.13.247,80,0,false,SYD,Oceania,Sydney,89,0.00
+20.203.143.114,2087,0,false,CDG,Europe,Paris,149,0.00
+20.203.143.117,2087,80,false,MXP,Europe,Milan,149,0.00
+20.203.143.117,2052,80,false,CDG,Europe,Paris,150,0.00
+20.203.143.114,2082,80,false,CDG,Europe,Paris,151,0.00
+20.218.125.181,443,443,true,FRA,Europe,Frankfurt,153,0.00
+20.203.143.114,2095,80,false,CDG,Europe,Paris,154,0.00
+20.218.224.219,8443,443,true,FRA,Europe,Frankfurt,154,0.00
+108.142.152.44,80,0,false,AMS,Europe,Amsterdam,159,0.00
+20.230.159.201,80,0,false,SEA,North America,Seattle,162,0.00
+20.13.168.204,8080,0,false,DUB,Europe,Dublin,164,0.00
+20.118.131.247,80,0,false,LAX,North America,Los Angeles,172,0.00
+20.157.97.123,80,80,false,AMS,Europe,Amsterdam,181,0.00
+104.40.244.228,443,443,true,AMS,Europe,Amsterdam,201,0.00
+20.221.32.145,443,443,true,ORD,North America,Chicago,205,0.00
+20.230.56.138,80,0,false,IAD,North America,Ashburn,220,0.00
+20.246.127.166,443,443,true,IAD,North America,Ashburn,222,0.00
+52.245.249.122,80,0,false,IAD,North America,Ashburn,223,0.00
+4.227.245.157,8080,0,false,IAD,North America,Ashburn,225,0.00
+52.254.118.22,80,0,false,IAD,North America,Ashburn,225,0.00
+4.255.56.137,443,443,true,IAD,North America,Ashburn,225,0.00
+4.227.214.97,80,0,false,IAD,North America,Ashburn,226,0.00
+20.104.218.53,80,0,false,YYZ,North America,Toronto,239,0.00
